@@ -2,7 +2,6 @@ sample_input  = [1,2,5,3,7,8,6,4]
 sample_input2 = [2,1,5,3,4]
 sample_input3 = [1,2,5,3,4,7,8,6]
 
-n = 5 
 
 def minimumBribes(inp_arr,n):
     minimumBribes = 0
