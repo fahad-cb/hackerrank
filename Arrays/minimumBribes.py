@@ -1,4 +1,4 @@
-sample_input  = [1,2,5,3,7,8,6,4]
+sample_input1  = [1,2,5,3,7,8,6,4]
 sample_input2 = [2,1,5,3,4]
 sample_input3 = [1,2,5,3,4,7,8,6]
 
@@ -31,4 +31,4 @@ def minimumBribes(inp_arr,n):
     print(minimumBribes)
 
 
-minimumBribes(sample_input,n)
+minimumBribes(sample_input1,n)
