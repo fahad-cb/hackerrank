@@ -31,4 +31,5 @@ def minimumBribes(inp_arr,n):
     print(minimumBribes)
 
 
+
 minimumBribes(sample_input1,n)
